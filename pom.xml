@@ -16,7 +16,7 @@
         <xdocreport.version>1.0.6</xdocreport.version>
         <xstream.version>1.4.19</xstream.version>
         <junrar.version>7.4.1</junrar.version>
-        <redisson.version>3.2.0</redisson.version>
+        <redisson.version>3.21.1</redisson.version>
         <sevenzipjbinding.version>16.02-2.01</sevenzipjbinding.version>
         <tukaani.version>1.8</tukaani.version>
         <jchardet.version>1.0</jchardet.version>
@@ -32,7 +32,7 @@
         <itext.version>2.1.7</itext.version>
         <commons-cli.version>1.2</commons-cli.version>
         <commons-net.version>3.6</commons-net.version>
-        <commons-lang3.version>3.7</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-compress.version>1.21</commons-compress.version>
 
         <maven.compiler.source>${java.version}</maven.compiler.source>
